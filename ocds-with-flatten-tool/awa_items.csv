@@ -1,0 +1,2 @@
+ocid,id,awards/0/id,awards/0/items/0/id,awards/0/items/0/description,awards/0/items/0/classification/id,awards/0/items/0/classification/scheme,awards/0/items/0/classification/description,awards/0/items/0/classification/uri,awards/0/items/0/quantity,awards/0/items/0/unit/name,awards/0/items/0/unit/value/amount,awards/0/items/0/unit/value/currency
+ocds-213czf-000-00001,ocds-213czf-000-00001-04-award,ocds-213czf-000-00001-award-01,0001,string,45233130,CPV,Construction work for highways,http://cpv.data.ac.uk/code-45233130,8,Miles,137000,GBP
