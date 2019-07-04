@@ -1,3 +1,4 @@
+<img src="/imagegithub.jpg" />
 # Introduction to The Flatten Tool For OCDS
 Recently I was playing around with  some open contracting data which was my first time working with data in json format. If you have ever had to work with open contracting data or generally any multi-deeply nested json file, you’ll relate to my trauma in trying to flatten out the file using pandas, json and json_normalize in jupyter notebook. Even with that I still did not get my desired output. I had to further write a number of loops and functions. For a beginner to intermediate level data tinkerer like myself, this experience can get very frustrating. Csv files have been the norm of most data projects I’ve worked on. On few occasions did I deal with spreadsheets which was pretty easy to convert to csv format on the click of a button or command in the terminal.
 
