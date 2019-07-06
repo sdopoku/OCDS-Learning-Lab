@@ -1,5 +1,5 @@
 # OCDS Learning Lab
-This lab is a tutorial on how to flatten hierachical/json open contracting data standard (ocds) data using the flatten tool.
+This lab is a tutorial on how to flatten hierachical/json [Open Contracting Data Standard (OCDS)](http://standard.open-contracting.org/latest/en/) data using the [Flatten Tool](https://flatten-tool.readthedocs.io/en/latest/).
 
 
 ## Table of contents
